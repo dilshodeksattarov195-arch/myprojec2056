@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrrocess",
+        "uuid": 2549440,
+        "checksum": "0wn7ae"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
